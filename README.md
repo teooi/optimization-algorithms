@@ -25,8 +25,6 @@ This repository contains implementations of **optimization algorithms**, includi
 
 The project provides **interactive 3D visualizations** using **Plotly** to compare algorithm performance on test functions.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -34,8 +32,6 @@ The project provides **interactive 3D visualizations** using **Plotly** to compa
 - **Jupyter Notebook (Google Colab)**
 - **NumPy, Matplotlib, Plotly**
 - **LaTeX** for mathematical notation
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
@@ -51,4 +47,3 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 jupyter notebook README.ipynb
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
