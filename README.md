@@ -8,7 +8,7 @@
   <p align="center">
     A collection of optimization algorithms with interactive visualizations.
     <br />
-    <a href="https://nbviewer.jupyter.org/github/your-username/your-repo/blob/main/README.ipynb"><strong>View Interactive Notebook »</strong></a>
+    <a href="https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/Optimization_Algorithms.ipynb"><strong>View Interactive Notebook »</strong></a>
   </p>
 </div>
 
