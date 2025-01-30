@@ -19,7 +19,6 @@
 This repository contains implementations of **optimization algorithms**, including:
 - **Gradient Descent** (Standard, Momentum, Nesterov Acceleration)
 - **Newton’s Method**
-- **Stochastic Gradient Descent (SGD)**
 - **Coordinate Descent** (L1 & L∞ Norms)
 - **Backtracking Line Search**
 
