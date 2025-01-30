@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![View in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange.svg)](https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/Optimization_Algorithms.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange.svg)](https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/optimization_algorithms.ipynb)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -8,7 +8,7 @@
   <p align="center">
     A collection of optimization algorithms with interactive visualizations.
     <br />
-    <a href="https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/Optimization_Algorithms.ipynb"><strong>View Interactive Notebook »</strong></a>
+    <a href="https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/optimization_algorithms.ipynb"><strong>View Interactive Notebook »</strong></a>
   </p>
 </div>
 
