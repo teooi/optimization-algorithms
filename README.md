@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 This repository contains implementations of **optimization algorithms**, including:
 - **Gradient Descent** (Standard, Momentum, Nesterov Acceleration)
@@ -26,7 +26,7 @@ The project provides **interactive 3D visualizations** using **Plotly** to compa
 
 ---
 
-## 🛠️ Built With
+## Built With
 - **Python**
 - **Jupyter Notebook (Google Colab)**
 - **NumPy, Matplotlib, Plotly**
@@ -36,13 +36,13 @@ The project provides **interactive 3D visualizations** using **Plotly** to compa
 
 ## 📖 How to View the Notebook
 
-### 🔹 **Online (Recommended)**
+### **Online (Recommended)**
 Click the **nbviewer badge** at the top of this README to view the interactive notebook.
 
-### 🔹 **Run Locally**
+### **Run Locally**
 To run the notebook on your machine:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-jupyter notebook README.ipynb
+git clone git@github.com:teooi/optimization-algorithms.git
+cd optimization-algorithms
+jupyter notebook optimization-algorithms.ipynb
 ```
