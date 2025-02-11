@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-[![View in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange.svg)](https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/optimization_algorithms.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/drive/1QZv03cwJt5aXGmgp3PEGQwv2GPX3zzTU?usp=sharing)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -8,7 +8,7 @@
   <p align="center">
     A collection of optimization algorithms with interactive visualizations.
     <br />
-    <a href="https://nbviewer.org/github/teooi/optimization-algorithms/blob/main/optimization_algorithms.ipynb"><strong>View Interactive Notebook »</strong></a>
+    <a href="https://colab.research.google.com/drive/1QZv03cwJt5aXGmgp3PEGQwv2GPX3zzTU?usp=sharing"><strong>View Interactive Notebook »</strong></a>
   </p>
 </div>
 
@@ -34,15 +34,14 @@ The project provides **interactive 3D visualizations** using **Plotly** to compa
 
 ---
 
-## 📖 How to View the Notebook
+## How to View the Notebook
 
 ### **Online (Recommended)**
-Click the **nbviewer badge** at the top of this README to view the interactive notebook.
+Click the **Google Colab badge** at the top of this README to open the interactive notebook.
 
 ### **Run Locally**
 To run the notebook on your machine:
 ```bash
 git clone git@github.com:teooi/optimization-algorithms.git
 cd optimization-algorithms
-jupyter notebook optimization-algorithms.ipynb
-```
+jupyter notebook optimization_algorithms.ipynb
